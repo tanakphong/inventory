@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ระบบตรวจนับสินค้า</string>
+    <string name="register">ลงทะเบียน</string>
+    <string name="setting">ตั้งค่า</string>
+    <string name="imports">นำเข้า</string>
+    <string name="export">ส่งออก</string>
+    <string name="auto">อัตโนมัติ</string>
+    <string name="manual">กำหนดเอง</string>
+    <string name="verify">ตรวจสอบ</string>
+    <string name="backup">สำรองข้อมูล</string>
+    <string name="delimiter">Delimiter</string>
+    <string name="code_register">Code Register</string>
+    <string name="resister_header">Register</string>
+    <string name="import_header">Import</string>
+    <string name="setting_header">Setting</string>
+    <string name="overwrite">Overwrite</string>
+    <string name="append">Append</string>
+    <string name="imp_import_data">Import Data</string>
+    <string name="imp_delimiter">Delimiter</string>
+    <string name="imp_select_source">Select Source of Data File</string>
+    <string name="imp_path">Path File</string>
+    <string name="imp_on_device">On Device</string>
+    <string name="imp_on_network">On Network</string>
+    <string name="imp_clear_transection">Clear Transection</string>
+    <string name="imp_chk_product">Product</string>
+    <string name="imp_chk_counting">Counting</string>
+    <string name="imp_chk_location">Location</string>
+    <string name="imp_btn_import">Import</string>
+    <string name="set_user">ผู้ตรวจนับ :</string>
+    <string name="set_languate">เลือกภาษา :</string>
+    <string name="set_languate_thai">ไทย</string>
+    <string name="set_languate_english">อังกฤษ</string>
+    <string name="set_hd_import_export">ตั้งค่า Folder สำหรับ Import/Export</string>
+    <string name="set_hd_sound">Sounds</string>
+    <string name="set_user_value">User</string>
+    <string name="set_device">บนอุปกรณ์ :</string>
+    <string name="set_device_value">WIA</string>
+    <string name="set_network">บนเน็ตเวิคก์ :</string>
+    <string name="set_network_value">\\\\Shared Drive</string>
+    <string name="set_database">ฐานข้อมูล :</string>
+    <string name="set_database_value">WIA</string>
+    <string name="set_btn_save">Save</string>
+    <string name="set_chk_found">เสียงเมื่อพบข้อมูล</string>
+    <string name="set_txt_found">*.mp3 หรือ *.wav</string>
+    <string name="set_chk_not_found">เสียงเมื่อไม่พบข้อมูล</string>
+    <string name="set_txt_not_found">*.mp3 หรือ *.wav</string>
+    <string name="validate_text">จำเป็นต้องกรอก</string>
+    <string name="menu_cancel">Cancel</string>
+    <string-array name="delimiter_array">
+        <item>Comma</item>
+        <item>Tab</item>
+        <item>SemiColon</item>
+        <item>Space</item>
+        <item>Pipe</item>
+        <item>Manual</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="pd20">20dp</dimen>
+    <dimen name="pd15">15dp</dimen>
+    <dimen name="rd2">2dp</dimen>
+    <dimen name="sx30">30dp</dimen>
+    <dimen name="sx24">24dp</dimen>
+    <dimen name="row_height">30dp</dimen>
+    <dimen name="h2">24dp</dimen>
+    <dimen name="h3">20dp</dimen>
+    <dimen name="h4">18dp</dimen>
+    <dimen name="pd5">5dp</dimen>
+    <dimen name="btsq30">30dp</dimen>
+    <dimen name="btsq40">40dp</dimen>
+    <dimen name="btsq36">36dp</dimen>
+    <dimen name="btsq42">42dp</dimen>
+    <dimen name="text_height">40dp</dimen>
+</resources>

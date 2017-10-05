@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_switch"
+        android:title=""
+        app:showAsAction="always"
+        app:actionLayout="@layout/switch_layout"
+        />
+    <!--<item-->
+        <!--android:id="@+id/toggleservice"-->
+        <!--android:actionViewClass="android.widget.Switch"-->
+        <!--android:showAsAction="ifRoom"-->
+        <!--android:title=""/>-->
+
+    <item android:id="@+id/action_cancel"
+        android:title="@string/menu_cancel"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+</menu>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">inventory</string>
+    <string name="register">Register</string>
+    <string name="setting">Setting</string>
+    <string name="imports">Import</string>
+    <string name="export">Export</string>
+    <string name="auto">Automatic</string>
+    <string name="manual">Manual</string>
+    <string name="verify">Verify</string>
+    <string name="backup">Backup</string>
+    <string name="delimiter">Delimiter</string>
+    <string name="code_register">Code Register</string>
+    <string name="resister_header">Register</string>
+    <string name="import_header">Import</string>
+    <string name="setting_header">Setting</string>
+    <string name="overwrite">Overwrite</string>
+    <string name="append">Append</string>
+    <string name="imp_import_data">Import Data</string>
+    <string name="imp_delimiter">Delimiter</string>
+    <string name="imp_select_source">Select Source of Data File</string>
+    <string name="imp_path">Path File</string>
+    <string name="imp_on_device">On Device</string>
+    <string name="imp_on_network">On Network</string>
+    <string name="imp_clear_transection">Clear Transection</string>
+    <string name="imp_chk_product">Product</string>
+    <string name="imp_chk_counting">Counting</string>
+    <string name="imp_chk_location">Location</string>
+    <string name="imp_btn_import">Import</string>
+    <string name="set_user">User :</string>
+    <string name="set_languate">Languate :</string>
+    <string name="set_languate_thai">Thai</string>
+    <string name="set_languate_english">English</string>
+    <string name="set_hd_import_export">Folder setup (Import/Export Data)</string>
+    <string name="set_hd_sound">Sounds</string>
+    <string name="set_user_value">User</string>
+    <string name="set_device">On Device :</string>
+    <string name="set_device_value">WIA</string>
+    <string name="set_network">On Network :</string>
+    <string name="set_network_value">\\\\Shared Drive</string>
+    <string name="set_database">Database :</string>
+    <string name="set_database_value">WIA</string>
+    <string name="set_btn_save">Save</string>
+    <string name="set_chk_found">Found in Database</string>
+    <string name="set_txt_found">*.mp3 or *.wav</string>
+    <string name="set_chk_not_found">Not Found in Database</string>
+    <string name="set_txt_not_found">*.mp3 or *.wav</string>
+    <string name="validate_text">Please input.</string>
+    <string name="menu_cancel">Cancel</string>
+    <string-array name="delimiter_array">
+        <item>Comma</item>
+        <item>Tab</item>
+        <item>SemiColon</item>
+        <item>Space</item>
+        <item>Pipe</item>
+        <item>Manual</item>
+    </string-array>
+</resources>
