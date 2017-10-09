@@ -19,7 +19,7 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-import com.wesoft.inventory.model.PreCountModel;
+import com.wesoft.inventory.Model.PreCountModel;
 
 import java.io.BufferedReader;
 import java.io.File;

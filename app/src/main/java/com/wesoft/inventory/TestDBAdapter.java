@@ -5,7 +5,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
 
-import com.wesoft.inventory.model.LocationModel;
+import com.wesoft.inventory.Model.LocationModel;
 
 import java.util.ArrayList;
 

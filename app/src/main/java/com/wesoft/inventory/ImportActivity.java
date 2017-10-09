@@ -19,7 +19,7 @@ import android.widget.Spinner;
 import android.widget.Toast;
 
 import com.pixplicity.easyprefs.library.Prefs;
-import com.wesoft.inventory.model.SettingModel;
+import com.wesoft.inventory.Model.SettingModel;
 
 import java.io.BufferedReader;
 import java.io.File;

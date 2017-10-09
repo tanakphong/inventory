@@ -1,4 +1,4 @@
-package com.wesoft.inventory.model;
+package com.wesoft.inventory.Model;
 
 /**
  * Created by USER275 on 8/29/2017.

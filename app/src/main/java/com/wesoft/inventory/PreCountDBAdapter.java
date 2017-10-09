@@ -5,7 +5,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.wesoft.inventory.model.PreCountModel;
+import com.wesoft.inventory.Model.PreCountModel;
 
 /**
  * Created by tanakorn.pho on 13/03/2560.
