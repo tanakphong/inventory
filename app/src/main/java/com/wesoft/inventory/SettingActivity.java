@@ -395,8 +395,8 @@ public class SettingActivity extends AppCompatActivity {
                 return true;
             case R.id.action_switch:
 //                Switch mySwitch = (Switch) findViewById(R.id.myswitch);
-                Switch sw = (Switch) item.getActionView();
-                Toast.makeText(this, "mySwitch.isChecked():" + sw.isChecked(), Toast.LENGTH_SHORT).show();
+//                Switch sw = (Switch) item.getActionView();
+//                Toast.makeText(this, "mySwitch.isChecked():" + sw.isChecked(), Toast.LENGTH_SHORT).show();
             case R.id.action_cancel:
                 Toast.makeText(this, "Cancel", Toast.LENGTH_SHORT).show();
             default:
